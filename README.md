@@ -5,4 +5,4 @@ This project came to an unfortunate end. It was my first basically completed tes
 
 Then, about a month after Christmas, my car was broken into and my laptop was stolen, along with the source code for the project. This was before I learned to use Github, back in high school. With that, the project died and I pulled it from the store, as I could no longer make any updates that I wanted to do, and I no longer wanted it published.
 
-It's a pretty crude game, not very polished, but everything in the app is my own. It's unfortunate that the project had to end that way, but that paved the way to me starting to work on my larger project, TestRpg.
+It's a pretty crude game, not very polished, but everything in the app is my own. It's unfortunate that the project had to end that way, but that paved the way to me starting to work on my larger project, Gladiatorial.
